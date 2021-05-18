@@ -38,6 +38,7 @@ body {
     background: rgba(0, 0, 0, .5);
     padding: 20px;
     width: 100%;
+    border: 2px rgb(72, 255, 0) solid;
 }
 
 .reloj {
